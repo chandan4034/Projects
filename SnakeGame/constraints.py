@@ -1,0 +1,10 @@
+__author__ = 'chandan'
+display_w = 800
+display_h = 600
+blockSize = 25
+FPS = 30
+leadX = display_w/2
+leadY = display_h/2
+music_status = 1 #for music on
+button_status = 1
+high_score = 0
